@@ -1,3 +1,22 @@
+/* .cls-1 {
+  fill: blue;
+}
+
+.cls-2 {
+  fill: none;
+  stroke: blue;
+  stroke-miterlimit: 10;
+  stroke-width: 5px;
+}
+
+.cls-3 {
+  opacity: .95;
+} */
+
+.SVG {
+  margin-bottom:50px;
+  border:20px solid red;
+}
 .vis .overlay {
   position: absolute;
   top: 0;
